@@ -1,2 +1,6 @@
 example.md
-as an example why don't we consider the affect heuristic which states that your decisions are heavily influenced by your current emotional state
+
+exaggerated emotional coherence aka the halo affect
+
+the availability heuristic explains why we use availability to influence judgement
+
