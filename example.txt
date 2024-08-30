@@ -1,6 +1,3 @@
 example.md
 
-exaggerated emotional coherence aka the halo affect
-
-the availability heuristic explains why we use availability to influence judgement
-
+git is really fun actually i am deeply enamoured of it
